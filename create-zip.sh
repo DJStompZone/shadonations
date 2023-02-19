@@ -1,0 +1,1 @@
+zip -9r shadonations.zip ./* -x "./venv/*" -x "./scrap/*" -x "./.config/*" -x "./.git/*"
